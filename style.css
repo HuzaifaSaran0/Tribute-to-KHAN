@@ -1,0 +1,29 @@
+.khann{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+ul{
+    line-height: 40px;
+    font-size: 22px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+h1{
+    font-size: 25px;
+}
+.last p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    max-width: 600px;
+    font-size: large;
+}
+.last{
+    text-align: -webkit-center;
+    width: 100%;
+}
